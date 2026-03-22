@@ -22,3 +22,4 @@ Optimize posting strategy based on data
 
 This dashboard helps businesses and marketers improve their social media performance by providing clear insights into engagement trends, content effectiveness, and audience behavior.
 **Dashboard Preview**
+https://github.com/Kushitha15/Social-Performance-Intelligence-Dashboard/blob/main/Snapshot%20of%20dashboardexcel.pdf
